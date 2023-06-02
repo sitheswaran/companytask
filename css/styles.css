@@ -1,0 +1,306 @@
+*{margin:0;
+  padding:0;
+  box-sizing:border-box;
+}  
+
+.row      {
+	       
+	       display:flex;
+           flex-wrap:wrap;
+		    padding-right: 15px;
+		   padding-left:15px;
+}
+
+.detail-header {
+
+	color:white;
+    padding-top:8px;
+	background-color:#3fbbc0;
+	
+}
+.dateheader {
+	padding-left:294px;
+}
+.btn {
+    color:white!important;
+}
+
+/*---------------------  DATA HEADER SECTION END -----------------------------------*/
+
+/*--------------------- HEADER SECTION START -----------------------------------*/
+
+
+
+
+
+.bg-light {
+     background-color:white!important; 
+}
+
+
+
+
+
+
+.links a{
+	color:black;
+}
+
+.link {
+     margin-top: 22px;	
+}
+
+.link a {
+	font-size: 18px;
+    display: inline-block;
+    background:black ;
+    color:white;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 4px;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+	text-decoration:none;
+	border-radius:50%;
+}
+.content p{
+	width:100%;
+	height:10px
+}
+.spl {
+    margin-left: -27px;
+}
+.content {
+	color:gray;
+	margin-top:18px;
+}
+
+
+
+
+.add-frame {
+	margin-bottom:20px;
+	margin-top:15px;
+}
+
+
+
+/*--------------------- add frame start-----------------------*/
+
+.img-img img {
+	width:100%;
+	height:400px;
+}
+
+
+.title {
+	width:100%;
+	height:400px;
+}
+.title h6{
+	margin-top:50px;
+	color:gray;
+}
+
+.title h4{
+	margin-top:65px;
+	color:#6a5c5c;
+}
+
+.title h2{
+	color: #6eb56e;
+    font-size: 50px;
+}
+
+.title p{
+	font-size:40px;
+	color:gray;
+	padding-bottom:10px;
+}
+
+/*---------------------- add frame end ----------------*/
+
+
+
+/*--------------- banner start ---------*/
+
+.banner {
+	background-color:#d3d2d2;
+	
+	position:relative;
+}
+
+
+.cup img{
+	padding-top:55px;
+    width: 100%;
+	height:580px;
+	margin-bottom:30px;
+	
+}
+
+.arrow-left i{
+	position:absolute;
+	left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 100px;
+	color:green;
+}
+
+.arrow-right i{
+	position:absolute;
+	right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size:100px;
+	color:green;
+}
+
+.cup-sen p{
+	font-size:150px;
+	color:green;
+	padding-left:34px;
+
+}
+.cup-sen {
+	 padding:145px 0;
+}
+.cup-sen h4 {
+	padding-left:34px;
+}
+
+
+/*--------------- banner end  ---------*/
+
+
+/*--------------------- about us SECTION START -----------------------------------*/
+.about-section {
+	width:100%;
+	margin-bottom:30px;
+  background-image: url("https://e1.pxfuel.com/desktop-wallpaper/249/275/desktop-wallpaper-abstract-digital-world-backgrounds-artificial-intelligence-thumbnail.jpg");
+}
+
+.about-tittle {
+    padding-top: 18px;
+    padding-left: 32px;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+}
+.about-text h3 {
+	font-weight: 600;
+}
+
+.about-text {
+    margin-top: 34px;
+    position: relative;
+}
+.about-text i{
+	color:green;
+}
+
+
+
+
+.sumall-con {
+	width:100%;
+	height:200px;
+    background-color:white;
+}
+
+.sumall-con  h5 {
+  padding-left:84px; 
+}
+
+.sumall-con  i{
+    font-size: 67px;
+    margin:61px 0;
+    position: absolute;
+	padding-left: 7px;
+   
+}
+.sumall-con  p{
+	padding-left:84px;
+}
+
+
+
+
+
+.sumall-con1 {
+	height:200px;
+}
+
+.sumall-con1  i{
+    
+   margin:61px 0;
+    position: absolute;
+    font-size:67px;
+}
+.sumall-con1  p{
+	padding-left:84px;
+}
+.sumall-con1  h5 {
+  padding-left:84px; 
+}
+
+
+
+
+
+.sumall-con2 {
+	height:200px;
+	margin-top:15px;
+}
+.sumall-con2  i{
+	margin:61px 0;
+    position: absolute;
+    font-size:67px;
+	padding-left: 7px;
+}
+.sumall-con2  p{
+	padding-left:84px;
+}
+.sumall-con2  h5 {
+	
+  padding-left:84px; 
+}
+
+
+.sumall-con3 {
+	height:200px;
+	margin-top:15px;
+}
+.sumall-con3  i{
+    
+    margin:61px 0;
+    position: absolute;
+    font-size:67px;
+}
+.sumall-con3  p{
+	padding-left:84px;
+}
+.sumall-con3  h5 {
+  padding-left:84px; 
+}
+
+
+
+
+/*--------------------- about us SECTION END -----------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
